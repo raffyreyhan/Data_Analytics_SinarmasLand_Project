@@ -1,0 +1,112 @@
+cluster_id,township_name,cluster_category,launch_phase,facility_tier,zone_type,handover_completion_pct,management_office_distance_category
+CLS-BSD-18-01,BSD City,Middle Residential,2018-2020 (Established),Standard,Mixed,98.2,Onsite
+CLS-BSD-18-02,BSD City,Middle Residential,2018-2020 (Established),Plus,Residential Core,99.4,Regional Hub
+CLS-BSD-18-03,BSD City,Middle Residential,2018-2020 (Established),Plus,Residential Core,87.6,Regional Hub
+CLS-BSD-18-04,BSD City,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,90.6,Regional Hub
+CLS-BSD-18-05,BSD City,Middle Residential,2018-2020 (Established),Plus,Mixed,96.5,Onsite
+CLS-BSD-18-06,BSD City,Middle Residential,2018-2020 (Established),Plus,Mixed,94.3,Onsite
+CLS-BSD-18-07,BSD City,Premium Residential,2018-2020 (Established),Premium Resort-style,Residential Core,99.6,Regional Hub
+CLS-BSD-19-08,BSD City,Middle Residential,2018-2020 (Established),Standard,Residential Core,98.1,Onsite
+CLS-BSD-19-09,BSD City,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,95.1,Regional Hub
+CLS-BSD-19-10,BSD City,Middle Residential,2018-2020 (Established),Plus,Residential Core,93.0,Onsite
+CLS-BSD-19-11,BSD City,Premium Residential,2018-2020 (Established),Premium Resort-style,Mixed,89.9,Onsite
+CLS-BSD-19-12,BSD City,Middle Residential,2018-2020 (Established),Standard,Residential Core,92.0,Regional Hub
+CLS-BSD-20-13,BSD City,Middle Residential,2018-2020 (Established),Standard,Residential Core,99.8,Onsite
+CLS-BSD-20-14,BSD City,Premium Residential,2018-2020 (Established),Plus,Residential Core,88.7,Onsite
+CLS-BSD-20-15,BSD City,Premium Residential,2018-2020 (Established),Premium Resort-style,Residential Core,95.4,Onsite
+CLS-BSD-20-16,BSD City,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,99.5,Regional Hub
+CLS-BSD-20-17,BSD City,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,92.3,Onsite
+CLS-BSD-21-18,BSD City,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,85.4,Onsite
+CLS-BSD-21-19,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,65.0,Regional Hub
+CLS-BSD-21-20,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,70.8,Onsite
+CLS-BSD-21-21,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,54.4,Regional Hub
+CLS-BSD-21-22,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,53.7,Onsite
+CLS-BSD-21-23,BSD City,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,52.1,Onsite
+CLS-BSD-21-24,BSD City,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,70.6,Regional Hub
+CLS-BSD-22-25,BSD City,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,62.3,Regional Hub
+CLS-BSD-22-26,BSD City,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,78.4,Regional Hub
+CLS-BSD-22-27,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Mixed,65.6,Onsite
+CLS-BSD-22-28,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,70.3,Onsite
+CLS-BSD-22-29,BSD City,Premium Residential,2021-2023 (New Phase),Plus,Residential Core,77.2,Regional Hub
+CLS-BSD-22-30,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,73.7,Onsite
+CLS-BSD-22-31,BSD City,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,78.1,Onsite
+CLS-BSD-23-32,BSD City,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,70.1,Onsite
+CLS-BSD-23-33,BSD City,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,65.9,Onsite
+CLS-BSD-23-34,BSD City,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,59.6,Regional Hub
+CLS-DLT-18-01,Deltamas,Industrial/Commercial,2018-2020 (Established),Plus,Residential Core,91.0,Regional Hub
+CLS-DLT-18-02,Deltamas,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,97.0,Onsite
+CLS-DLT-19-03,Deltamas,Middle Residential,2018-2020 (Established),Standard,Residential Core,98.9,Onsite
+CLS-DLT-19-04,Deltamas,Middle Residential,2018-2020 (Established),Standard,Mixed,87.9,Onsite
+CLS-DLT-20-05,Deltamas,Middle Residential,2018-2020 (Established),Standard,Mixed,94.4,Regional Hub
+CLS-DLT-20-06,Deltamas,Middle Residential,2018-2020 (Established),Standard,Residential Core,89.9,Onsite
+CLS-DLT-21-07,Deltamas,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,61.4,Regional Hub
+CLS-DLT-21-08,Deltamas,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,75.4,Regional Hub
+CLS-DLT-22-09,Deltamas,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,70.4,Regional Hub
+CLS-DLT-22-10,Deltamas,Industrial/Commercial,2021-2023 (New Phase),Standard,Residential Core,52.9,Onsite
+CLS-DLT-22-11,Deltamas,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,65.7,Regional Hub
+CLS-DLT-22-12,Deltamas,Industrial/Commercial,2021-2023 (New Phase),Plus,Residential Core,60.9,Regional Hub
+CLS-DLT-22-13,Deltamas,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,78.0,Regional Hub
+CLS-DLT-23-14,Deltamas,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,78.5,Regional Hub
+CLS-DLT-23-15,Deltamas,Industrial/Commercial,2021-2023 (New Phase),Standard,Mixed,74.4,Onsite
+CLS-GWS-18-01,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,88.9,Onsite
+CLS-GWS-18-02,Grand Wisata,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,99.5,Onsite
+CLS-GWS-18-03,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,94.4,Regional Hub
+CLS-GWS-18-04,Grand Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,94.1,Regional Hub
+CLS-GWS-19-05,Grand Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,87.5,Onsite
+CLS-GWS-19-06,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,96.9,Onsite
+CLS-GWS-20-07,Grand Wisata,Premium Residential,2018-2020 (Established),Premium Resort-style,Residential Core,87.0,Onsite
+CLS-GWS-20-08,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,88.4,Onsite
+CLS-GWS-20-09,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,88.9,Onsite
+CLS-GWS-20-10,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,91.2,Onsite
+CLS-GWS-20-11,Grand Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,91.8,Onsite
+CLS-GWS-20-12,Grand Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,97.5,Onsite
+CLS-GWS-20-13,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,90.8,Onsite
+CLS-GWS-20-14,Grand Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,99.2,Onsite
+CLS-GWS-21-15,Grand Wisata,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,82.7,Regional Hub
+CLS-GWS-21-16,Grand Wisata,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,70.8,Onsite
+CLS-GWS-21-17,Grand Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,58.8,Regional Hub
+CLS-GWS-21-18,Grand Wisata,Middle Residential,2021-2023 (New Phase),Plus,Mixed,58.3,Regional Hub
+CLS-GWS-21-19,Grand Wisata,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,66.3,Onsite
+CLS-GWS-22-20,Grand Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,60.1,Onsite
+CLS-GWS-22-21,Grand Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,69.8,Regional Hub
+CLS-GWS-23-22,Grand Wisata,Commercial Ruko,2021-2023 (New Phase),Standard,Commercial Ring,81.7,Onsite
+CLS-GWS-23-23,Grand Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,67.1,Onsite
+CLS-KWS-18-01,Kota Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,92.2,Onsite
+CLS-KWS-18-02,Kota Wisata,Premium Residential,2018-2020 (Established),Premium Resort-style,Residential Core,95.3,Onsite
+CLS-KWS-18-03,Kota Wisata,Premium Residential,2018-2020 (Established),Premium Resort-style,Mixed,99.4,Regional Hub
+CLS-KWS-18-04,Kota Wisata,Premium Residential,2018-2020 (Established),Plus,Residential Core,88.8,Regional Hub
+CLS-KWS-18-05,Kota Wisata,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,89.9,Onsite
+CLS-KWS-18-06,Kota Wisata,Premium Residential,2018-2020 (Established),Premium Resort-style,Residential Core,96.8,Onsite
+CLS-KWS-18-07,Kota Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,97.7,Onsite
+CLS-KWS-19-08,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,96.3,Regional Hub
+CLS-KWS-19-09,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,98.3,Onsite
+CLS-KWS-19-10,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,90.1,Onsite
+CLS-KWS-19-11,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,92.5,Regional Hub
+CLS-KWS-19-12,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Mixed,94.7,Onsite
+CLS-KWS-19-13,Kota Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,95.2,Onsite
+CLS-KWS-19-14,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,96.3,Onsite
+CLS-KWS-19-15,Kota Wisata,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,87.5,Onsite
+CLS-KWS-20-16,Kota Wisata,Middle Residential,2018-2020 (Established),Plus,Residential Core,95.4,Onsite
+CLS-KWS-20-17,Kota Wisata,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,90.3,Onsite
+CLS-KWS-20-18,Kota Wisata,Premium Residential,2018-2020 (Established),Premium Resort-style,Mixed,90.8,Onsite
+CLS-KWS-20-19,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,97.1,Onsite
+CLS-KWS-20-20,Kota Wisata,Middle Residential,2018-2020 (Established),Standard,Residential Core,89.7,Onsite
+CLS-KWS-20-21,Kota Wisata,Commercial Ruko,2018-2020 (Established),Standard,Commercial Ring,95.9,Regional Hub
+CLS-KWS-21-22,Kota Wisata,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,62.3,Onsite
+CLS-KWS-21-23,Kota Wisata,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,72.2,Regional Hub
+CLS-KWS-21-24,Kota Wisata,Middle Residential,2021-2023 (New Phase),Plus,Mixed,76.0,Regional Hub
+CLS-KWS-22-25,Kota Wisata,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Mixed,59.0,Regional Hub
+CLS-KWS-22-26,Kota Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,73.7,Regional Hub
+CLS-KWS-22-27,Kota Wisata,Middle Residential,2021-2023 (New Phase),Plus,Mixed,68.1,Onsite
+CLS-KWS-22-28,Kota Wisata,Middle Residential,2021-2023 (New Phase),Plus,Residential Core,54.7,Onsite
+CLS-KWS-22-29,Kota Wisata,Premium Residential,2021-2023 (New Phase),Plus,Residential Core,71.1,Onsite
+CLS-KWS-23-30,Kota Wisata,Middle Residential,2021-2023 (New Phase),Standard,Residential Core,81.1,Onsite
+CLS-NVP-19-01,NavaPark,Premium Residential,2018-2020 (Established),Plus,Mixed,93.7,Onsite
+CLS-NVP-20-02,NavaPark,Premium Residential,2018-2020 (Established),Premium Resort-style,Mixed,99.6,Onsite
+CLS-NVP-21-03,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Mixed,60.4,Regional Hub
+CLS-NVP-22-04,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,63.4,Onsite
+CLS-NVP-22-05,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,64.8,Regional Hub
+CLS-NVP-22-06,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,53.2,Onsite
+CLS-NVP-22-07,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,55.3,Regional Hub
+CLS-NVP-23-08,NavaPark,Premium Residential,2021-2023 (New Phase),Plus,Residential Core,52.2,Regional Hub
+CLS-NVP-23-09,NavaPark,Premium Residential,2021-2023 (New Phase),Premium Resort-style,Residential Core,61.8,Onsite
